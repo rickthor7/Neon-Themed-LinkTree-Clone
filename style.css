@@ -12,7 +12,7 @@ body {
       rgba(29, 38, 113, 0.8),
       rgba(195, 55, 100, 0.8)
     ),
-    url("https://images.unsplash.com/photo-1533523705247-88786d3e9242?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=401&q=80");
+    url("images/background-image.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   font-family: "Poppins", sans-serif;
